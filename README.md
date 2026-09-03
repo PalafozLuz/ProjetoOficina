@@ -1,3 +1,1 @@
-placa: ABC1234
-modelo: Fiat Uno
-Contato extra: 21 98765-4321
+cadastro e autenticação de clientes de uma oficina mecânica
